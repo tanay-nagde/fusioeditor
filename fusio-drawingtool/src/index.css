@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+.excalidraw-wrapper * {
+  all: revert;
+  box-sizing: border-box;
+}
